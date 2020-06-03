@@ -2,7 +2,7 @@
 
 This repository contains the data for:
 
-Ognyanova, K., Lazer, D., Robertson, R. E., & Wilson, C. (2020). Misinformation in action: Fake news exposure is linked to lower trust in media, higher trust in government when your side is in power. The Harvard Kennedy School (HKS)
+Ognyanova, K., Lazer, D., Robertson, R. E., & Wilson, C. (2020). Misinformation in action: Fake news exposure is linked to lower trust in media, higher trust in government when your side is in power. *The Harvard Kennedy School (HKS) Misinformation Review*, Volume 1, Issue 4.  
 https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/06/Misinformation-in-action-Ognyanova-et-al-2020.pdf
 
 The data used in this study was collected by the opinion polling company YouGov. A total of 3,000 participants completed two surveys conducted shortly before and after the 2018 U.S. midterm elections. The first survey wave was fielded between October 18 and October 24 of 2018. The second wave was collected between November 23 and December 1 of 2018.
