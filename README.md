@@ -5,7 +5,7 @@ This repository contains the data for:
 Ognyanova, K., Lazer, D., Robertson, R. E., & Wilson, C. (2020). Misinformation in action: Fake news exposure is linked to lower trust in media, higher trust in government when your side is in power. *The Harvard Kennedy School (HKS) Misinformation Review*, Volume 1, Issue 4.  
 https://misinforeview.hks.harvard.edu/wp-content/uploads/2020/06/Misinformation-in-action-Ognyanova-et-al-2020.pdf
 
-The data used in this study was collected by the opinion polling company YouGov. A total of 3,000 participants completed two surveys conducted shortly before and after the 2018 U.S. midterm elections. The first survey wave was fielded between October 18 and October 24 of 2018. The second wave was collected between November 23 and December 1 of 2018.
+The data used in this study was collected by the opinion polling company YouGov. A total of 3,000 participants completed two surveys conducted shortly before and after the 2018 U.S. midterm elections. The first survey wave was fielded between October 18 and October 24 of 2018. The second wave was collected between November 23 and December 1 of 2018. Out of the 3,000 respondents who completed both survey waves, a subsample of 227 (8%) agreed to install the browser extension and participate in the digital data collection. This is the sample used for the current study.  
 During the initial recruitment, survey respondents were also invited to participate in our digital data collection taking place in October and November of 2018. Individuals who consented were asked to install a browser extension compatible with Google Chrome and Firefox. This extension operated until December 1 and periodically collected the web browsing history of each participant.
 
 # Variables in the data 
