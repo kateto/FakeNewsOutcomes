@@ -10,6 +10,8 @@ During the initial recruitment, survey respondents were also invited to particip
 
 ## Variables in the data 
 
+weight    : Data weight based on 2018 ACS data demographics
+
 conf_wh   : Confidence in the White House; 1 (None) to 5 (A great deal)  
 conf_cong : Confidence in Congress; 1 (None) to 5 (A great deal)  
 conf_sc   : Confidence in the Supreme Court; 1 (None) to 5 (A great deal)  
